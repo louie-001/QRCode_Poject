@@ -1,1 +1,3 @@
-# QRCode_Poject
+# QRCode Poject
+这是一个使用google zxing实现二维码功能的demo工程。
+service中为实现方法，方法的调用请查看test下的测试用例
